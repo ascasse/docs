@@ -1,6 +1,6 @@
 layout: page
 title: "Index"
-permalink: /index.html
+permalink: /index
 
 # Index
 
