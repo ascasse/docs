@@ -1,5 +1,5 @@
-layout: page
-title: "Index"
+layout: page  
+title: "Index"  
 permalink: /index
 
 # Index
